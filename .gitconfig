@@ -1,0 +1,9 @@
+[user]
+	name = Hayrunnisa Vural
+	email = hayrunnisa.vural@roofstacks.com
+[core]
+	editor = emacs
+	autocrlf = true
+	safecrlf = warn
+[init]
+	defaultBranch = main
